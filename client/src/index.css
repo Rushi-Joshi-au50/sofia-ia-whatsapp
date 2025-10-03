@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 96%;
+    --foreground: 0 0% 13%;
+    
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 13%;
+    
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 13%;
+    
+    --primary: 210 82% 37%;
+    --primary-foreground: 0 0% 100%;
+    
+    --primary-light: 207 90% 86%;
+    --primary-dark: 214 85% 34%;
+    
+    --secondary: 197 97% 49%;
+    --secondary-foreground: 0 0% 100%;
+    
+    --muted: 0 0% 96%;
+    --muted-foreground: 0 0% 46%;
+    
+    --accent: 210 82% 37%;
+    --accent-foreground: 0 0% 100%;
+    
+    --destructive: 0 72% 58%;
+    --destructive-foreground: 0 0% 100%;
+    
+    --success: 122 39% 49%;
+    --success-foreground: 0 0% 100%;
+    
+    --warning: 36 100% 50%;
+    --warning-foreground: 0 0% 100%;
+    
+    --border: 0 0% 88%;
+    --input: 0 0% 88%;
+    --ring: 210 82% 37%;
+    
+    --radius: 0.5rem;
+  }
+ 
+  * {
+    @apply border-border;
+  }
+  
+  body {
+    @apply font-sans antialiased bg-background text-foreground;
+  }
+  
+  .code-block {
+    font-family: "Roboto Mono", monospace;
+  }
+  
+  .terminal {
+    background-color: #212121;
+    color: #f5f5f5;
+    font-family: "Roboto Mono", monospace;
+  }
+}

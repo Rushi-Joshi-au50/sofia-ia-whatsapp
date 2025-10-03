@@ -1,24 +1,235 @@
-# Credenciais e arquivos sensíveis
-*.json
-!package.json
-!tsconfig.json
-!components.json
-!drizzle.config.ts
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+# Sofia Security - Arquivos Sensíveis
 credentials*.json
+credentials*.txt
+*credential*
+*secret*
+*key*.json
+.env
+.env.*
+config.env
+
+# Logs e dados temporários
+logs/*.log
+logs/*.txt
+mensagens_whatsapp.txt
+temp/
+tmp/
+*.tmp
+*.temp
+*.backup
+*.bak
+
+# Dados específicos Sofia
 sofia-agenda-*.json
 auth_info_baileys/
+session-*
+contatos_reais.*
+clientes_reais.*
+dados_pessoais.*
+
+# Cache e builds
+node_modules/.cache
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sofia Security - Arquivos Sensíveis
+credentials*.json
+credentials*.txt
+*credential*
+*secret*
+*key*.json
 .env
-.env.local
+.env.*
+config.env
 
-# Node
-node_modules/
-dist/
-.npm/
+# Logs e dados temporários
+logs/*.log
+logs/*.txt
+mensagens_whatsapp.txt
+temp/
+tmp/
+*.tmp
+*.temp
+*.backup
+*.bak
 
-# Logs
-logs/
-*.log
+# Dados específicos Sofia
+sofia-agenda-*.json
+auth_info_baileys/
+session-*
+contatos_reais.*
+clientes_reais.*
+dados_pessoais.*
 
-# Sistema
+# Cache e builds
+node_modules/.cache
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sofia Security - Arquivos Sensíveis
+credentials*.json
+credentials*.txt
+*credential*
+*secret*
+*key*.json
+.env
+.env.*
+config.env
+
+# Logs e dados temporários
+logs/*.log
+logs/*.txt
+mensagens_whatsapp.txt
+temp/
+tmp/
+*.tmp
+*.temp
+*.backup
+*.bak
+
+# Dados específicos Sofia
+sofia-agenda-*.json
+auth_info_baileys/
+session-*
+contatos_reais.*
+clientes_reais.*
+dados_pessoais.*
+
+# Cache e builds
+node_modules/.cache
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sofia Security - Arquivos Sensíveis
+credentials*.json
+credentials*.txt
+*credential*
+*secret*
+*key*.json
+.env
+.env.*
+config.env
+
+# Logs e dados temporários
+logs/*.log
+logs/*.txt
+mensagens_whatsapp.txt
+temp/
+tmp/
+*.tmp
+*.temp
+*.backup
+*.bak
+
+# Dados específicos Sofia
+sofia-agenda-*.json
+auth_info_baileys/
+session-*
+contatos_reais.*
+clientes_reais.*
+dados_pessoais.*
+
+# Cache e builds
+node_modules/.cache
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sofia Security - Arquivos Sensíveis
+credentials*.json
+credentials*.txt
+*credential*
+*secret*
+*key*.json
+.env
+.env.*
+config.env
+
+# Logs e dados temporários
+logs/*.log
+logs/*.txt
+mensagens_whatsapp.txt
+temp/
+tmp/
+*.tmp
+*.temp
+*.backup
+*.bak
+
+# Dados específicos Sofia
+sofia-agenda-*.json
+auth_info_baileys/
+session-*
+contatos_reais.*
+clientes_reais.*
+dados_pessoais.*
+
+# Cache e builds
+node_modules/.cache
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
 .DS_Store
 Thumbs.db
