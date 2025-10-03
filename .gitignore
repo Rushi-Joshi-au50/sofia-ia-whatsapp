@@ -1,0 +1,24 @@
+# Credenciais e arquivos sensíveis
+*.json
+!package.json
+!tsconfig.json
+!components.json
+!drizzle.config.ts
+credentials*.json
+sofia-agenda-*.json
+auth_info_baileys/
+.env
+.env.local
+
+# Node
+node_modules/
+dist/
+.npm/
+
+# Logs
+logs/
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
